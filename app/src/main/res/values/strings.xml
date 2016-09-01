@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PermissionDemo</string>
+    <!-- permission -->
+    <string name="request_contacts_activity">Activity安全获取联系人权限</string>
+    <string name="request_phone_fragment_activity">FragmentActivity安全获取电话权限</string>
+    <string name="request_camera_fragment">Fragment安全获取Camera权限</string>
+    <string name="new_fragemnt">在Fragment中进行验证</string>
+</resources>
